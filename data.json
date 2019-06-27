@@ -1,0 +1,34 @@
+[
+  {
+    "title": "New Orders",
+    "moreInfo": "More info",
+    "rate": "150",
+    "className": "bg-aqua",
+    "iconClass": "ion ion-bag",
+    "isPercentage": false
+  },
+  {
+    "title": "Bounce Rate",
+    "moreInfo": "More info",
+    "rate": "53",
+    "className": "bg-green",
+    "iconClass": "ion ion-stats-bars",
+    "isPercentage": true
+  },
+  {
+    "title": "User Registrations",
+    "moreInfo": "More info",
+    "rate": "44",
+    "className": "bg-yellow",
+    "iconClass": "ion ion-person-add",
+    "isPercentage": false
+  },
+  {
+    "title": "Unique Visitors",
+    "moreInfo": "More info",
+    "rate": "65",
+    "className": "bg-red",
+    "iconClass": "ion ion-pie-graph",
+    "isPercentage": false
+  }
+]
